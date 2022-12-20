@@ -3,6 +3,7 @@ img{
     height: 100px;
     object-fit: contain;
     border-radius: 120px;
+    color:red;
 }
 h1{
     color: #f3ad71;
