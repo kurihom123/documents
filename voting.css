@@ -1,0 +1,9 @@
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 120px;
+}
+h1{
+    color: #f3ad71;
+}
